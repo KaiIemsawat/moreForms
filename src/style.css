@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.mainContainer {
+  width: 80%;
+  margin: 25px auto;
+}
+
+.noticeMessage {
+  font-size: 0.6rem;
+  color: #ea650d;
+}
